@@ -1,6 +1,8 @@
 
 
 Razorpay Website UI (Responsive)
+
+
 This project is a responsive clone of the Razorpay website, built using Tailwind CSS and HTML. It aims to replicate the modern, clean, and user-friendly design of Razorpay's official site.
 
 Features:
